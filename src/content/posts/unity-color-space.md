@@ -3,7 +3,7 @@ title: 【備忘録】Unityの色空間に関するあれこれ
 published: 2025-09-23
 description: 'Unityの色空間がどのように扱われているかに関する備忘録です'
 image: ''
-tags: ["Unity", "色空間", "カラー", "備忘録"]
+tags: ["Unity", "色空間", "シェーダー", "備忘録"]
 category: 'Unity'
 draft: false
 lang: 'ja'
@@ -131,7 +131,7 @@ Unityにおけるシェーダーでは、**色空間の変換機能**を持っ�
 
 ### 書いてて気付いたこと...
 
-## **「これ、シェーダー内で直接TexTransToolのRender Textureを参照して、書き込めば良くない？？？？？**」
+「**これ、シェーダー内で直接TexTransToolのRender Textureを参照して、書き込めば良くない？**」
 
 はい、気付いてしまいました。私が苦労してた部分が全て**無駄**だったということを...
 
