@@ -115,15 +115,10 @@ lang: 'ja'
 
 - デフォルト表情を、ちょっと元気な子っぽく微調整したりしてます！
 
->  まめひなたには元気な子でいてほしいよね...！！
-
-
 
 - 髪の色を、デフォルトベースでグラデーションマップを使って再生成してます！
 
 > Color Changer For UnityのバランスモードV3を使って作ってます！
-> 
-> ハイライトとか、全体が統一してていいよね！！
 
 
 
@@ -168,10 +163,10 @@ lang: 'ja'
 ## ほかのミルクちゃんと変わってるところ
 
 - デフォルトのアイテクスチャの色が変わってます！
-  
-  > **TexTransTool**の**PSD Importer**と**Color Changer For Unity**を組み合わせて、Eyeレイヤーだけクリッピングして色改変してます！
-  > 
-  > **デフォアイテクスチャは良いぞ！！！**
+
+> **TexTransTool**の**PSD Importer**と**Color Changer For Unity**を組み合わせて、Eyeレイヤーだけクリッピングして色改変してます！
+> 
+> **デフォアイテクスチャは良いぞ！！！**
 
 
 
@@ -203,7 +198,7 @@ lang: 'ja'
 
 **紫陽花アクセサリー**: [【PB対応】きらきら紫陽花の花飾り 3タイプ×3色セット🌼 - おもちやさん](https://booth.pm/ja/items/3050625)
 
-**首輪（今はないかも！)**: [【VRC想定衣装】「ArtemisSailor」アルテミス・セーラー　（複数アバター対応） - SilverSpace](https://booth.pm/ja/items/4222837)
+**首輪（今はないかも！）**: [【VRC想定衣装】「ArtemisSailor」アルテミス・セーラー　（複数アバター対応） - SilverSpace](https://booth.pm/ja/items/4222837)
 
 **髪型:** [Lynn Hair <40アバター対応> - mochipun](https://booth.pm/ja/items/6690701)
 
@@ -223,7 +218,7 @@ lang: 'ja'
 
 - 色改変をすべて**VRC Color Changer**で行って、全体の雰囲気を合わせるようにしてます！
 
-> たしか、初めて**VRC Color Changer**を本格的に使って改変した初めてのアバターじゃなかったかな？
+> たしか、初めて**VRC Color Changer**を本格的に使って改変したアバターだった気がします！
 
 
 
@@ -267,7 +262,9 @@ lang: 'ja'
 
 **ヘアアクセサリー**: [☁Fefe's Hair Accessories☁ - felicitafelice](https://booth.pm/ja/items/4666852)
 
-**パンダアクセサリー**: [🐼Panda Accessories🐼【MA対応】#arupaka_VRC - arupaka](https://booth.pm/ja/items/6680176)
+**パンダアクセサリー（ねこてんシフォン）**: [🐼Panda Accessories🐼【MA対応】#arupaka_VRC - arupaka](https://booth.pm/ja/items/6680176)
+
+**雲ヘアピン（URWシフォン）**: [【VRC想定･MA対応】雲ヘアピン Cloud Hair Accessory【アクセサリー】 - ham.am / はむあむ](https://booth.pm/ja/items/5410436)
 
 **ゆるしゃーくヘアアクセサリー**: [ゆるっとシャーク🦈ヘアクリップ - かこい亭](https://booth.pm/ja/items/6026483)
 
