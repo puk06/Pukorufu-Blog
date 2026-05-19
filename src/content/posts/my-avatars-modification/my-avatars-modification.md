@@ -170,66 +170,6 @@ lang: 'ja'
 
 
 
-# ショコラ
-
-![chocolat](./chocolat.png)
-
-よく私のイベントで使っているショコラちゃんです！たまに出てきます！
-
-
-
-## ベース
-
-**アバター素体**: [ショコラ -Chocolat-【オリジナル3Dモデル】 - あまとうさぎ](https://booth.pm/ja/items/6405390)
-
-
-
-## 衣装
-
-**衣装**: [《41アバター対応衣装》ベルチェックワンピース - 白猫通りのナギ亭](https://booth.pm/ja/items/6750939)
-
-
-
-## アクセサリー
-
-**眼鏡**: [【VRchat】 Metal Frame Glasses [メタル素材丸眼鏡] - ranchino](https://booth.pm/ja/items/3750938)
-
-**パンダアクセサリー**: [🐼Panda Accessories🐼【MA対応】#arupaka_VRC - arupaka](https://booth.pm/ja/items/6680176)
-
-**紫陽花アクセサリー**: [【PB対応】きらきら紫陽花の花飾り 3タイプ×3色セット🌼 - おもちやさん](https://booth.pm/ja/items/3050625)
-
-**首輪（今はないかも！）**: [【VRC想定衣装】「ArtemisSailor」アルテミス・セーラー　（複数アバター対応） - SilverSpace](https://booth.pm/ja/items/4222837)
-
-**髪型:** [Lynn Hair <40アバター対応> - mochipun](https://booth.pm/ja/items/6690701)
-
-**アイテクスチャ**: [【14アバター対応】Sparkling eyesテクスチャ ♥15color♥ - さばさばショップ](https://booth.pm/ja/items/6433694)
-
-**顔の絆創膏**: [にゃんこ ばんそうこう（Cat Bandage） - こけっこぴよぴよ](https://booth.pm/ja/items/4137208)
-
-**表情**: 次に紹介するシフォンちゃんベースで全て自作だったはずです！
-
-
-
-## ほかのショコラちゃんと変わってるところ
-
-- 顔のシェイプキーがめっちゃ変わってます！
-
-> **丸っこく、可愛い感じ**にしてます！
-
-- 色改変をすべて**VRC Color Changer**で行って、全体の雰囲気を合わせるようにしてます！
-
-> たしか、初めて**VRC Color Changer**を本格的に使って改変したアバターだった気がします！
-
-
-
-## 裏話
-
-この子、自分が絶対使わないような**黄色、オレンジっぽい**色合いになっていると思うんですが。
-
-これ、「**いつもと違う改変してみたらどうなるんだろう？**」って思って、思いっきり変えてみたら思いの外うまく行ってしまって、お気に入りになった子だったりします。
-
-
-
 # シフォン
 
 ![chiffon](./chiffon.png)
@@ -280,11 +220,10 @@ lang: 'ja'
 
 # プラム
 
-![plum](./plum.png)
+![plum](./plum2.png)
 
-新しいプラムちゃんです！！
+ちょーシンプルなプラムちゃんです！！おいしそうな色してるよね...
 
-シフォンちゃんベースで作りました！！
 
 
 ## ベース
@@ -303,23 +242,61 @@ lang: 'ja'
 
 **眼鏡**: [【VRchat】 Metal Frame Glasses [メタル素材丸眼鏡] - ranchino](https://booth.pm/ja/items/3750938)
 
-**ヘイロー**: [【無料】フォロワー2000人記念　エクリプスヘイロー - ぽた屋](https://booth.pm/ja/items/5854580)
+**雲ヘアピン**: [【VRC想定･MA対応】雲ヘアピン Cloud Hair Accessory【アクセサリー】 - ham.am / はむあむ](https://booth.pm/ja/items/5410436)
 
-**顔の絆創膏**: [にゃんこ ばんそうこう（Cat Bandage） - こけっこぴよぴよ](https://booth.pm/ja/items/4137208)
 
-**ヘアアクセサリー**: [☁Fefe's Hair Accessories☁ - felicitafelice](https://booth.pm/ja/items/4666852)
+
+## 髪型
+
+**前髪**: [プラム -Plum-【オリジナル3Dモデル】 - あまとうさぎ](https://booth.pm/ja/items/7770415)
+
+**後ろ髪**: [Lavender Braid Hair - 隣の店](https://booth.pm/ja/items/5483086)
+
+
+
+# ショコラ
+
+![chocolat](./chocolat2.png)
+
+最近できた、オッドアイの水色ショコラです！！納得の行く好きな色で改変できた子です！！！
+
+
+
+## ベース
+
+**アバター素体**: [ショコラ -Chocolat-【オリジナル3Dモデル】 - あまとうさぎ](https://booth.pm/ja/items/6405390)
+
+
+
+## 衣装
+
+**衣装**: [シューがーワンピ - 餅亭](https://booth.pm/ja/items/5594480)
+
+
+
+## アクセサリー
 
 **雲ヘアピン**: [【VRC想定･MA対応】雲ヘアピン Cloud Hair Accessory【アクセサリー】 - ham.am / はむあむ](https://booth.pm/ja/items/5410436)
 
-**ゆるしゃーくヘアアクセサリー**: [ゆるっとシャーク🦈ヘアクリップ - かこい亭](https://booth.pm/ja/items/6026483)
+**ヘアアクセサリー**: [☁Fefe's Hair Accessories☁ - felicitafelice](https://booth.pm/ja/items/4666852)
 
-**表情**: **デフォルトベース** + **シフォンベースの自作表情**
+**耳ヘイロー**: [キロ Kyro Neko Hoodie🐈︎ - くろねこ](https://booth.pm/ja/items/8243183)
 
-**アイテクスチャ**: **デフォルト**
+**アイテクスチャ**: [【14アバター対応】Sparkling eyesテクスチャ ♥15color♥ - さばさばショップ](https://booth.pm/ja/items/6433694)
 
-## ほかのプラムちゃんと変わってるところ
+**ほっぺガーゼ**: [プラム -Plum-【オリジナル3Dモデル】 - あまとうさぎ](https://booth.pm/ja/items/7770415)
 
-- 顎のところだけ、ちょっと丸くしてます！シフォンと同じですね！
+**ネイル**: [HoroNail【VRネイルチップ】#あんらぼぶい - 𝔸𝕟-𝕃𝕒𝕓𝕠.𝕍𝕚𝕣𝕥𝕦𝕒𝕝🎀](https://booth.pm/ja/items/3407613)
+
+**目元パーティクル＆ボディシール**: [Stardust  Whispers - ARCA-WORKS](https://booth.pm/ja/items/6626299)
+
+
+
+## 裏話
+
+色改変 + 合成が、すべての私のツールで行われています...！！
+
+TexStackEditorは良いぞ！！
 
 
 
@@ -336,6 +313,8 @@ lang: 'ja'
 - [【無料】テクスチャ改変用の色変更ツール / VRC Color Changer - ぷこるふの倉庫](https://pukorufu.booth.pm/items/6519471)
 
 - [【無料】非破壊の色改変ツール / Color Changer For Unity - ぷこるふの倉庫](https://pukorufu.booth.pm/items/7315019)
+
+- [【無料】非破壊のテクスチャ色改変・合成ツール / TexStackEditor - ぷこるふの倉庫](https://pukorufu.booth.pm/items/8026112)
 
 - [TexTransTool【UnityEditor拡張】 - ReinaS'Shop](https://booth.pm/ja/items/4833984)
 
