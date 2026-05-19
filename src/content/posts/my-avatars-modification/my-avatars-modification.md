@@ -244,6 +244,10 @@ lang: 'ja'
 
 **雲ヘアピン**: [【VRC想定･MA対応】雲ヘアピン Cloud Hair Accessory【アクセサリー】 - ham.am / はむあむ](https://booth.pm/ja/items/5410436)
 
+**耳**: [ショコラ -Chocolat-【オリジナル3Dモデル】 - あまとうさぎ](https://booth.pm/ja/items/6405390)
+
+**しっぽ**: [シフォン -Chiffon-【オリジナル3Dモデル】 - あまとうさぎ](https://booth.pm/ja/items/5354471)
+
 
 
 ## 髪型
