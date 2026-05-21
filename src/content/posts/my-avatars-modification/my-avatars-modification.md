@@ -274,7 +274,7 @@ lang: 'ja'
 
 ## 衣装
 
-**衣装**: [シューがーワンピ - 餅亭](https://booth.pm/ja/items/5594480)
+**衣装**: [シュガーワンピ - 餅亭](https://booth.pm/ja/items/5594480)
 
 
 
