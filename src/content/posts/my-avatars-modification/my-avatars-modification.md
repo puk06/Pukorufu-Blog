@@ -133,7 +133,8 @@ lang: 'ja'
 **アクセサリー**
 
 - 雲ヘアピン: [雲ヘアピン Cloud Hair Accessory - ham.am / はむあむ](https://ham-am.booth.pm/items/5410436)
-- ヘアアクセサリー: [☁Fefe's Hair Accessories☁ - felicitafelice](https://felicitafelice.booth.pm/items/4666852)
+- ヘアアクセサリー(写真 | HPがMAX): [☁Fefe's Hair Accessories☁ - felicitafelice](https://felicitafelice.booth.pm/items/4666852)
+- ヘアアクセサリー(HPが1減ってる): [動く！ PixelBoot ヘアアクセサリー (+なで警告ギミック) - ARCA-WORKS](https://arca-works.booth.pm/items/7081568)
 - 耳ヘイロー: [キロ Kyro Neko Hoodie🐈︎ - くろねこ](https://shop-kuroneko.booth.pm/items/8243183)
 - アイテクスチャ: [Sparkling eyesテクスチャ ♥15color♥ - さばさばショップ](https://sabavrc.booth.pm/items/6433694)
 - ネイル: [HoroNail - 𝔸𝕟-𝕃𝕒𝕓𝕠.𝕍𝕚𝕣𝕥𝕦𝕒𝕝](https://van-labo.booth.pm/items/3407613)
