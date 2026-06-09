@@ -140,6 +140,11 @@ lang: 'ja'
 - ネイル: [HoroNail - 𝔸𝕟-𝕃𝕒𝕓𝕠.𝕍𝕚𝕣𝕥𝕦𝕒𝕝](https://van-labo.booth.pm/items/3407613)
 - 目元パーティクル＆ボディシール: [Stardust Whispers - ARCA-WORKS](https://arca-works.booth.pm/items/6626299)
 
+**髪型**
+
+- 写真: ショコラ素体
+- 後ろ髪: [ねこタイドボブヘア - Li-ne_Shop](https://li-ne.booth.pm/items/7977491)
+
 ---
 
 ## 使用しているメッシュ微調整ツール
