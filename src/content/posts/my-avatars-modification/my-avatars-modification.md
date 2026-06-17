@@ -139,11 +139,36 @@ lang: 'ja'
 - アイテクスチャ: [Sparkling eyesテクスチャ ♥15color♥ - さばさばショップ](https://sabavrc.booth.pm/items/6433694)
 - ネイル: [HoroNail - 𝔸𝕟-𝕃𝕒𝕓𝕠.𝕍𝕚𝕣𝕥𝕦𝕒𝕝](https://van-labo.booth.pm/items/3407613)
 - 目元パーティクル＆ボディシール: [Stardust Whispers - ARCA-WORKS](https://arca-works.booth.pm/items/6626299)
+- ほっぺガーゼ: [プラム -Plum- - あまとうさぎ](https://komado.booth.pm/items/7770415)
 
 **髪型**
 
 - 写真: ショコラ素体
-- 後ろ髪: [ねこタイドボブヘア - Li-ne_Shop](https://li-ne.booth.pm/items/7977491)
+- 前髪: [ねこタイドボブヘア - Li-ne_Shop](https://li-ne.booth.pm/items/7977491)
+- 後ろ髪: [ラブリーロングヘア - Li-ne_Shop](https://li-ne.booth.pm/items/7643173)
+
+---
+
+### 桜シフォン
+
+![chocolat](./chocolat2.png)
+
+- **素体**: [シフォン -Chiffon- - あまとうさぎ](https://komado.booth.pm/items/5354471)
+- **衣装**: [ゆめいろワンピース - ほむぺじ](https://pii34.booth.pm/items/5222688)
+
+**アクセサリー**
+
+- アイテクスチャ: [Sparkling eyesテクスチャ ♥15color♥ - さばさばショップ](https://sabavrc.booth.pm/items/6433694)
+- 桜ヘイロー: [Sakura Halo -宵桜の輪- - QuQu](https://sonovr.booth.pm/items/6751976)
+- デジタルヘアアクセ: [デジタルヘアアクセ Digital Hair Accessories - ham.am / はむあむ](https://ham-am.booth.pm/items/5659402)
+- ほっぺガーゼ: [プラム -Plum- - あまとうさぎ](https://komado.booth.pm/items/7770415)
+- 紫陽花花飾り: [きらきら紫陽花の花飾り 3タイプ×3色セット🌼 - おもちやさん](https://omochi-mochishop.booth.pm/items/3050625)
+- 目元ボディシール: [Stardust Whispers - ARCA-WORKS](https://arca-works.booth.pm/items/6626299)
+
+**髪型**
+
+- 前髪: [ねこタイドボブヘア - Li-ne_Shop](https://li-ne.booth.pm/items/7977491)
+- 後ろ髪: [ラブリーロングヘア - Li-ne_Shop](https://li-ne.booth.pm/items/7643173)
 
 ---
 
