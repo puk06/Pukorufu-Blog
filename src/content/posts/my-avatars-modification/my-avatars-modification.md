@@ -152,7 +152,7 @@ lang: 'ja'
 
 ### 桜シフォン
 
-![chocolat](./chocolat2.png)
+![chiffon2](./chiffon2.png)
 
 - **素体**: [シフォン -Chiffon- - あまとうさぎ](https://komado.booth.pm/items/5354471)
 - **衣装**: [ゆめいろワンピース - ほむぺじ](https://pii34.booth.pm/items/5222688)
