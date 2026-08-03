@@ -22,6 +22,7 @@ lang: 'ja'
 - [プラム](#プラム)
 - [ショコラ](#ショコラ)
 - [桜シフォン](#桜シフォン)
+- [白プラム](#白プラム)
 - [使用しているメッシュ微調整ツール](#使用しているメッシュ微調整ツール)
 - [使用している色改変ツールなど](#使用している色改変ツールなど)
 
@@ -173,6 +174,34 @@ lang: 'ja'
 
 ---
 
+### 白プラム
+
+![plum3](./plum3.png)
+
+- **素体**: [プラム -Plum- - あまとうさぎ](https://komado.booth.pm/items/7770415)
+- **衣装（写真）**: [カプチーノ学園 Summer - かぷちやのぶーす](https://capettiya.booth.pm/items/7323673)
+
+**アクセサリー**
+
+- アイテクスチャ: [Sparkling eyesテクスチャ ♥15color♥ - さばさばショップ](https://sabavrc.booth.pm/items/6433694)
+- 眼鏡: [Metal Frame Glasses - ranchino](https://ranchino.booth.pm/items/3750938)
+- 雲ヘアピン: [雲ヘアピン Cloud Hair Accessory - ham.am / はむあむ](https://ham-am.booth.pm/items/5410436)
+- HPヘアアクセサリー: [動く！ PixelBoot ヘアアクセサリー (+なで警告ギミック) - ARCA-WORKS](https://arca-works.booth.pm/items/7081568)
+- ネイル: [HoroNail - 𝔸𝕟-𝕃𝕒𝕓𝕠.𝕍𝕚𝕣𝕥𝕦𝕒𝕝](https://van-labo.booth.pm/items/3407613)
+- ボディシール: [Stardust Whispers - ARCA-WORKS](https://arca-works.booth.pm/items/6626299)
+- ほっぺガーゼ: [プラム -Plum- - あまとうさぎ](https://komado.booth.pm/items/7770415)
+- イヤリング: [Seasonal Drop - ことしょっぷ](https://kotonaka1.booth.pm/items/6301947)
+- 耳に掛けてる帽子: [シュガーワンピ - 餅亭](https://mochitei.booth.pm/items/5594480)
+
+**髪型**
+
+- 前髪: [ねこタイドボブヘア - Li-ne_Shop](https://li-ne.booth.pm/items/7977491)
+- 後ろ髪: [ラブリーロングヘア - Li-ne_Shop](https://li-ne.booth.pm/items/7643173)
+- 髪ヘイロー: [Halo Ring Hair - mochipun](https://mochipun.booth.pm/items/8457461)
+- ヘイローマテリアル: [星空が揺れる！DreamLoopHalo ヘイロー - ARCA-WORKS](https://arca-works.booth.pm/items/7554950)
+
+---
+
 ## 使用しているメッシュ微調整ツール
 
 - [EreMorph - えれにゃんこどっとしょっぷ](https://erenoa.booth.pm/items/7552621)
@@ -184,7 +213,7 @@ lang: 'ja'
 - [非破壊のテクスチャ色改変・合成ツール / TexStackEditor - ぷこるふの倉庫](https://pukorufu.booth.pm/items/8026112)
 - [TexTransTool - ReinaS'Shop](https://booth.pm/ja/items/4833984)
 
-**アセット管理**
+## アセット管理ツール
 
 - [アバター改変用のエクスプローラー / VRC Avatar Explorer - ぷこるふの倉庫](https://pukorufu.booth.pm/items/6372968)
 
