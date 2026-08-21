@@ -17,7 +17,8 @@ lang: 'ja'
 ## 目次
 
 - [使っているアバター一覧](#使っているアバター一覧)
-- [キプフェル](#キプフェル)
+- [キプフェル（暖色）](#暖色キプフェル)
+- [キプフェル（水色）](#水色キプフェル)
 - [まめひなた](#まめひなた)
 - [シフォン](#シフォン)
 - [プラム](#プラム)
@@ -37,7 +38,7 @@ lang: 'ja'
 
 ---
 
-### キプフェル
+### 暖色キプフェル
 
 ![kipfel](./kipfel.png)
 
@@ -57,6 +58,20 @@ lang: 'ja'
 **改変メモ**
 
 - Headのスケールを1.00→0.8にして、顔を少し小さめにしています。
+
+### 水色キプフェル
+
+![bluekipfel](./blue-kipfel.png)
+
+- **素体**: [キプフェル Kipfel / オリジナル3Dモデル - もち山金魚](https://mukumi.booth.pm/items/5813187)
+- **衣装**: [彼ニット✦キプフェル対応版✦ - rabishop](https://rabishop.booth.pm/items/5983817)
+
+**アクセサリー**
+
+- アイテクスチャ: [すやすやEye - おちゃかなしょっぷ -Shop Ochakana- ](https://escapefroma.booth.pm/items/5913410)
+- 表情セット（かなり改変済）: [キプフェルちゃん表情セット！46+10種 - n2qix](https://n2qix.booth.pm/items/6015218)
+- ヘアアクセサリー: [🐼Panda Accessories🐼 - arupaka](https://arupaka001.booth.pm/items/6680176)
+- ねこひげ: [ネオンライト(neon light) - MenheR](https://menher.booth.pm/items/4286857)
 
 ---
 
