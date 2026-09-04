@@ -192,15 +192,16 @@ lang: 'ja'
 
 ### 白プラム
 
-![plum3](./plum3.png)
+![plum4](./plum4.png)
 
 - **素体**: [プラム -Plum- - あまとうさぎ](https://komado.booth.pm/items/7770415)
-- **衣装（写真）**: [カプチーノ学園 Summer - かぷちやのぶーす](https://capettiya.booth.pm/items/7323673)
+- **衣装（写真）**: [AmberTime【VRChat向け衣装】 - MyMe.VR](https://suzu-ya.booth.pm/items/6370041)
 
 **アクセサリー**
 
 - アイテクスチャ: [Sparkling eyesテクスチャ ♥15color♥ - さばさばショップ](https://sabavrc.booth.pm/items/6433694)
 - 眼鏡: [Metal Frame Glasses - ranchino](https://ranchino.booth.pm/items/3750938)
+- 眼鏡シェーダー: [CrossGlasses - Noem](https://noem.booth.pm/items/6957936) 
 - 雲ヘアピン: [雲ヘアピン Cloud Hair Accessory - ham.am / はむあむ](https://ham-am.booth.pm/items/5410436)
 - HPヘアアクセサリー: [動く！ PixelBoot ヘアアクセサリー (+なで警告ギミック) - ARCA-WORKS](https://arca-works.booth.pm/items/7081568)
 - ネイル: [HoroNail - 𝔸𝕟-𝕃𝕒𝕓𝕠.𝕍𝕚𝕣𝕥𝕦𝕒𝕝](https://van-labo.booth.pm/items/3407613)
